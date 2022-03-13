@@ -1,2 +1,2 @@
-# potato-tag-cli
+# create-potato-tag
 Get a chrome extension boilerplate by running one command.
