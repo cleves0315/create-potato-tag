@@ -9,7 +9,8 @@ Get a chrome extension boilerplate by running one command.
 
 ```javascript
 npm install create-potato-tag
+
 npx create-potato-tag myChromeExtension
+
 cd myChromeExtension
-npm install
 ```
