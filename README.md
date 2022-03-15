@@ -14,3 +14,6 @@ npx create-potato-tag myChromeExtension
 
 cd myChromeExtension
 ```
+
+He connects to another repository
+[potato-tag-boilerplate](https://github.com/cleves0315/potato-tag-boilerplate)
